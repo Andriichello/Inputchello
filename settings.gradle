@@ -1,0 +1,3 @@
+rootProject.name = "Inputchello"
+include ':app'
+include ':MaskedEditText'
