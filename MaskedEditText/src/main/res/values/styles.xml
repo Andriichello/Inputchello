@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight">
+        <item name="android:editTextStyle">@style/EditTextWithoutBackground</item>
+    </style>
+
+    <style name="EditTextWithoutBackground">
+        <item name="android:letterSpacing">0.03</item>
+        <item name="background">@null</item>
+    </style>
+</resources>

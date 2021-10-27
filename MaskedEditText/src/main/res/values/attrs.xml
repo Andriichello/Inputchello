@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MaskedEditText">
+        <attr name="mask" format="string"/>
+        <attr name="replacement" format="string"/>
+        <attr name="initial" format="string"/>
+        <attr name="allowed" format="string"/>
+        <attr name="disguise" format="string"/>
+        <attr name="keepHint" format="boolean"/>
+        <attr name="shouldDisguise" format="boolean"/>
+    </declare-styleable>
+</resources>
